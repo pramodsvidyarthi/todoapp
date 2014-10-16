@@ -1,0 +1,11 @@
+{
+  "name": "todo-app",
+  "dependencies": {
+    "jquery": "latest",
+    "backbone": "latest",
+    "underscore": "latest",
+    "requirejs": "latest",
+    "backbone.localstorage": "~1.1.13",
+    "jquery.ui": "~1.11.1"
+  }
+}

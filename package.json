@@ -1,0 +1,6 @@
+{
+	"dependencies":{
+		"express": "~4.8.6",
+		"ejs": "~1.0.0"
+	}
+}
